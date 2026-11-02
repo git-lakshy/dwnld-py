@@ -1,3 +1,5 @@
-# Python Download Manager
+# dwnld-py
 
-A lightweight download manager built in Python using raw TCP sockets and SSL.
+Lightweight download manager idea in Python (raw TCP + SSL).
+
+This repository currently only holds the project description. Source is not checked in yet.
